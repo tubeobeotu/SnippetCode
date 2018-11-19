@@ -1,0 +1,15 @@
+PODS:
+  - Cartography (3.0.1)
+  - DynamicColor (4.0.2)
+
+DEPENDENCIES:
+  - Cartography (~> 3.0.0)
+  - DynamicColor
+
+SPEC CHECKSUMS:
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  DynamicColor: c7adcfe871781a2b39877a5774e452ba51b79eb3
+
+PODFILE CHECKSUM: 81c6abcd596f4e27710f4cacdda40ae7ac744f24
+
+COCOAPODS: 1.3.1
